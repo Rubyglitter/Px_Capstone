@@ -2,4 +2,10 @@ body{
     background-color:slategray
 }
 
+h1{
+    border: solid 4px black
+}
 
+h2{
+    color:lavenderblush
+}
